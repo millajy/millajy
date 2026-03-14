@@ -8,4 +8,4 @@ Hello, I'm Milla. I'm a Master's student in Information and Service Management a
 * Visualization: PowerBI, Tableau, Looker Studio
 
 🩵 **Projects**
-* Wish Summer Products
+* Wish Summer Products: an analysis on summer-themed product sales on wish.com.
